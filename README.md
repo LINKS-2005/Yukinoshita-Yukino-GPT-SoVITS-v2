@@ -8,6 +8,17 @@
 
 > ⚠️ 模型文件较大（约 230MB），不在仓库里，请到 **[Releases](../../releases)** 下载 `yukino_v2_GPT-SoVITS.zip`。
 
+## 试听
+
+以下音频均由本模型 + `ref/yukino_v2_ref.wav` 参考音频生成（top_k=5、temperature=1.0、语速 1.0）：
+
+| 文件 | 台词 | 时长 |
+| --- | --- | --- |
+| [demo_01_tsundere.wav](demo/demo_01_tsundere.wav) | ちょっと、何見てるのよ。別にアンタのことなんて興味ないんだからね。 | 6.4s |
+| [demo_02_short.wav](demo/demo_02_short.wav) | え、なにそれ？ | 1.9s |
+| [demo_03_pout.wav](demo/demo_03_pout.wav) | べ、別にアンタのためにやったんじゃないんだからね！ | 4.6s |
+| [demo_04_cold.wav](demo/demo_04_cold.wav) | ふん、アンタに構ってる暇なんてないのよ。 | 3.7s |
+
 ## 文件说明
 
 | 文件 | 说明 |
